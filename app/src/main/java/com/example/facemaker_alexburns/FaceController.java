@@ -136,4 +136,6 @@ public class FaceController implements View.OnClickListener,
     public int getBlue(int color){
         return color & 255;
     }
+
+    //troubleshooting comment
 }
